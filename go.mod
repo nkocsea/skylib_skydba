@@ -1,4 +1,4 @@
-module suntech.com.vn/skylib/skydba.git
+module github.com/nkocsea/skylib_skydba.git
 
 go 1.18
 
@@ -10,8 +10,8 @@ require (
 	github.com/stoewer/go-strcase v1.2.0
 	google.golang.org/api v0.114.0
 	google.golang.org/grpc v1.53.0
-	suntech.com.vn/skylib/skylog.git v1.1.2
-	suntech.com.vn/skylib/skyutl.git v1.10.90
+	github.com/nkocsea/skylib_skylog.git v1.1.2
+	github.com/nkocsea/skylib_skyutl.git v1.10.90
 )
 
 require (
