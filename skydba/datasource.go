@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"suntech.com.vn/skylib/skylog.git/skylog"
+	"github.com/nkocsea/skylib_skylog/skylog"
 )
 
 //MainDB main db connection

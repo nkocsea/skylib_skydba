@@ -15,8 +15,8 @@ import (
 	"github.com/elliotchance/orderedmap"
 	"github.com/lib/pq"
 	"github.com/stoewer/go-strcase"
-	"suntech.com.vn/skylib/skylog.git/skylog"
-	"suntech.com.vn/skylib/skyutl.git/skyutl"
+	"github.com/nkocsea/skylib_skylog/skylog"
+	"github.com/nkocsea/skylib_skyutl/skyutl"
 )
 
 type outParamType int

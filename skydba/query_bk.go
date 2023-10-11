@@ -9,8 +9,8 @@ package skydba
 
 // 	"github.com/elliotchance/orderedmap"
 // 	"github.com/jinzhu/copier"
-// 	"suntech.com.vn/skylib/skylog.git/skylog"
-// 	"suntech.com.vn/skylib/skyutl.git/skyutl"
+// 	"github.com/nkocsea/skylib_skylog/skylog"
+// 	"github.com/nkocsea/skylib_skyutl/skyutl"
 // )
 
 // //ReadWithID function

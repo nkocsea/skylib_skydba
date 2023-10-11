@@ -3,7 +3,7 @@ package skydba
 import (
 	"strings"
 
-	"suntech.com.vn/skylib/skyutl.git/skyutl"
+	"github.com/nkocsea/skylib_skyutl/skyutl"
 )
 
 func BuildDocument(data []string) string {

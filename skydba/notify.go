@@ -13,8 +13,8 @@ import (
 	"google.golang.org/api/option"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
-	"suntech.com.vn/skylib/skylog.git/skylog"
-	"suntech.com.vn/skylib/skyutl.git/skyutl"
+	"github.com/nkocsea/skylib_skylog/skylog"
+	"github.com/nkocsea/skylib_skyutl/skyutl"
 )
 
 const (

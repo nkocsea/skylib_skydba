@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 	"strconv"
-	"suntech.com.vn/skylib/skyutl.git/skyutl"
+	"github.com/nkocsea/skylib_skyutl/skyutl"
 	"reflect"
-	"suntech.com.vn/skylib/skylog.git/skylog"
+	"github.com/nkocsea/skylib_skylog/skylog"
 
 	"github.com/elliotchance/orderedmap"
 )

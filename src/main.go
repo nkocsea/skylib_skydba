@@ -7,8 +7,8 @@ import (
 	// "time"
 	_ "github.com/lib/pq"
 	// "encoding/json"
-	"suntech.com.vn/skylib/skydba.git/skydba"
-	// "suntech.com.vn/skylib/skyutl.git/report"
+	"github.com/nkocsea/skylib_skydba/skydba"
+	// "github.com/nkocsea/skylib_skyutl/report"
 	// "github.com/elliotchance/orderedmap"
 )
 

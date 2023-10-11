@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/elliotchance/orderedmap"
-	"suntech.com.vn/skylib/skyutl.git/skyutl"
+	"github.com/nkocsea/skylib_skyutl/skyutl"
 )
 
 //Q struct

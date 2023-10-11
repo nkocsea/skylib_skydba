@@ -1,7 +1,7 @@
 tidy:
 	go clean -modcache
 	rm -Rf go.sum
-	go env -w GOPRIVATE=suntech.com.vn/skylib/skylog.git,suntech.com.vn/skylib/skyutl.git
+	go env -w GOPRIVATE=github.com/nkocsea/skylib_skylog,github.com/nkocsea/skylib_skyutl
 	go mod tidy
 
 run:
